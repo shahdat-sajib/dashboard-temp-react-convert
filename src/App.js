@@ -1,10 +1,15 @@
 import './App.css';
 import Home from './Pages/Home';
 
-function App() {
+import React from 'react';
+import SideMenu from './components/SideMenu/sidemenu';
+
+const App = () => {
   return (
-    <Home/>
-  )
+    <div>
+      <SideMenu />
+    </div>
+  );
 }
 
 export default App;
