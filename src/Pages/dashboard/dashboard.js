@@ -8,8 +8,8 @@ const Dashboard = () => {
                     <div class="pcoded-inner-content">
                         <div class="main-body">
                             <div class="page-wrapper">
-                                <div class="container bg-danger" >
-                                    <h1 class="text-center pt-2">Main Content Section</h1>
+                                <div class="common-body" >
+                                    <h3 class="text-center pt-2">Main Content Section</h3>
                                 </div>
                             </div>
                         </div>

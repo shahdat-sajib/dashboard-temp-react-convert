@@ -9,7 +9,6 @@ const Header = () => {
                     <div class="b-bg">
                         <i class="feather icon-trending-up"></i>
                     </div>
-                    <span class="b-title">Akij ESOL</span>
                 </a>
             </div>
             <a class="mobile-menu" id="mobile-header" href="javascript:">
@@ -17,8 +16,9 @@ const Header = () => {
             </a>
             <div class="collapse navbar-collapse">
                 <ul class="navbar-nav mr-auto">
-                    <li><a href="javascript:" class="full-screen" onclick="javascript:toggleFullScreen()"><i
-                        class="feather icon-maximize"></i></a></li>
+                    {/* <li><a href="javascript:" class="full-screen" onclick="javascript:toggleFullScreen()"><i
+                        class="feather icon-maximize"></i></a>
+                    </li> */}
 
 
                 </ul>
